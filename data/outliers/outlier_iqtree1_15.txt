@@ -1,0 +1,15 @@
+EPI_ISL_19158188|A/gadwall/Alaska/IZ22_0885/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19158341|A/Americanwigeon/Alaska/IZ22_0891/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19604369|A/northernshoveler/Alaska/23-003641-007/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19158342|A/Americanwigeon/Alaska/IZ22_0890/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_18755528|A/americanwigeon/Alaska/USGS-0890/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19158263|A/northernshoveler/Alaska/IZ22_0892/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19158288|A/green-wingedteal/Alaska/IZ22_0887/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19594065|A/chicken/Pennsylvania/24-031844-001/2024|NorthAmerica/UnitedStates/Pennsylvania|Chicken|2024-10-28
+EPI_ISL_19606558|A/americanwigeon/Alaska/23-003641-005/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19594064|A/chicken/Pennsylvania/24-031844-002/2024|NorthAmerica/UnitedStates/Pennsylvania|Chicken|2024-10-28
+EPI_ISL_19607883|A/gadwall/Alaska/23-003641-004/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19158187|A/gadwall/Alaska/IZ22_0889/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19606703|A/americangreenwingedteal/Alaska/23-003641-003/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19606544|A/americanwigeon/Alaska/23-003641-006/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
+EPI_ISL_19607882|A/gadwall/Alaska/23-003641-002/2022|NorthAmerica/UnitedStates/Alaska|Duck|2022-10-14
