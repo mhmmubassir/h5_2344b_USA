@@ -17,6 +17,6 @@ The study integrates sequence-based, structure-based, and function-based analyse
 final_science_materials/
 ├── data/
 ├── main_figures/
-├── scripts/
+├── pipelines/
 ├── supplimental_figures/
 └── supplimental_tables/
