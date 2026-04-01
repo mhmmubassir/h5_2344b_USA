@@ -1,0 +1,14 @@
+&general
+   startframe=1, endframe=1000, interval=1,
+   verbose=1,
+   strip_mask=':WAT,Na+,Cl-',
+/
+
+&gb
+   igb=2,
+   saltcon=0.15,
+/
+
+&decomp
+   idecomp=2,
+/

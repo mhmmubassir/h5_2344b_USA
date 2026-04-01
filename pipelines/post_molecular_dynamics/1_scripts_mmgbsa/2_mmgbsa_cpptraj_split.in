@@ -1,0 +1,11 @@
+parm  CPLX.parm7
+parmstrip !(:1-1488)
+parmwrite out receptor.parm7
+go
+
+clear all
+parm  CPLX.parm7
+parmstrip !(:1489-1506)
+parmwrite out ligand.parm7
+go
+exit
