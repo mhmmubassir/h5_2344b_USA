@@ -1,0 +1,14 @@
+saveamberparm mol CPLX.parm7 CPLX.rst7
+savepdb mol CPLX.pdb
+
+addIons mol Na+ 0
+addIons mol Cl- 0
+saveamberparm mol CPLX_Neut.parm7 CPLX_Neut.rst7
+savepdb mol CPLX_Neut.pdb
+
+solvateOct mol TIP5PBOX 10.0
+saveamberparm mol CPLX_Neut_Sol.parm7 CPLX_Neut_Sol.rst7
+savepdb mol CPLX_Neut_Sol.pdb
+
+quit
+

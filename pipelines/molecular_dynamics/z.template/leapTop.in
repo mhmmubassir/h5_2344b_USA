@@ -1,0 +1,20 @@
+########### Set Defaults ###################################################
+set default PBRadii mbondi2
+############################################################################
+########### Force Field Inputs #############################################
+#source /cm/shared/apps/amber20/dat/leap/cmd/leaprc.GLYCAM_06j-1
+#source /cm/shared/apps/amber20/dat/leap/cmd/leaprc.protein.ff19SB
+
+#source ${AMBERHOME}/dat/leap/cmd/leaprc.GLYCAM_06j-1
+#source ${AMBERHOME}/dat/leap/cmd/leaprc.protein.ff19SB
+
+source /apps/eb/Amber/22.0-foss-2021b-AmberTools-22.3/dat/leap/cmd/leaprc.GLYCAM_06j-1
+source /apps/eb/Amber/22.0-foss-2021b-AmberTools-22.3/dat/leap/cmd/leaprc.protein.ff19SB
+
+############################################################################
+#loadamberparams frcmod.ionsjc_tip3p
+loadAmberParams frcmod.tip5p
+
+mol=loadpdb structure.pdb
+#BONDING
+
