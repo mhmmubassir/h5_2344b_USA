@@ -57,26 +57,6 @@ final_science_materials/
 └── supplementary_tables/
 ```
 
-### `data/`
-
-Processed datasets used in downstream analyses, figure generation, and statistical summaries. Depending on the specific release state of the repository, this directory may include phenotype matrices, lineage annotations, representative structure metadata, diversity trajectories, and other derived tables.
-
-### `main_figures/`
-
-Materials associated with the primary figures in the manuscript. This may include source data tables, plotting scripts, panel-specific intermediate outputs, and final rendered figure files.
-
-### `pipelines/`
-
-Core computational workflows used to generate the study outputs. These may include scripts for structural preparation, phenotype extraction, benchmarking, molecular modeling, molecular dynamics analysis, and figure-ready summarization steps.
-
-### `supplementary_figures/`
-
-Scripts, source data, and outputs used to generate supplementary figure panels and supporting visualizations.
-
-### `supplementary_tables/`
-
-Supplementary tables and any scripts or intermediate files used to generate formatted tabular outputs for the manuscript.
-
 ---
 
 ## Analytical framework
@@ -164,13 +144,12 @@ If you use this repository or any of its processed outputs, please cite:
 **Mubassir et al. (2026)**
 *Phenotypic flexibility, rather than optimization, governs pandemic potential*
 
-If the manuscript has not yet been assigned final bibliographic details, this section can be updated upon publication with journal name, volume, page range, and DOI.
 
 ---
 
 ## Contact
 
-For questions regarding repository organization, computational workflows, or manuscript-associated materials, please contact the corresponding project authors.
+For questions regarding repository organization, computational workflows, or manuscript-associated materials, please contact the corresponding author.
 
 ---
 
