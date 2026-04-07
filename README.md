@@ -135,6 +135,14 @@ This repository is intended for:
 * extension of the framework to related influenza HA datasets
 * methodological reference for phenotype-centered viral emergence studies
 
+
+## Public interactive tree
+
+The public interactive tree is available at:
+
+```text
+https://nextstrain.org/community/mhmmubassir/h5_2344b_USA@main/full
+```
 ---
 
 ## Citation
