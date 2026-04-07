@@ -46,7 +46,7 @@ The following traits were intentionally removed from the current visualization b
 
 ## Public interactive tree
 
-The public interactive tree should be available at:
+The public interactive tree is available at:
 
 ```text
 https://nextstrain.org/community/mhmmubassir/h5_2344b_USA@main/full
