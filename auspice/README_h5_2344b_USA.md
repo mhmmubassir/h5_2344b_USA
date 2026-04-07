@@ -46,12 +46,11 @@ The following traits were intentionally removed from the current visualization b
 
 ## Public interactive tree
 
-After the dataset JSON is uploaded to the `auspice/` directory in this repository, the public interactive tree should be available at:
+The public interactive tree should be available at:
 
 ```text
 https://nextstrain.org/community/mhmmubassir/h5_2344b_USA@main/full
 ```
-
 ## Maintainer
 
 M H M Mubassir
