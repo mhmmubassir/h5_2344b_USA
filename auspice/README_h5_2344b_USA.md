@@ -43,15 +43,75 @@ The following traits were intentionally removed from the current visualization b
 - `flexddg_bind_23`
 - `flexddg_bind_26`
 
+## Repository structure
+
+```text
+auspice/
+  h5_2344b_USA_full.json
+
+results/
+  ...intermediate build outputs...
+
+metadata_13000_nextstrain.tsv
+timetree_augur_compatible.nexus
+auspice_config_full.json
+colors.tsv
+run_build_minimal.sh
+run_view.sh
+```
 
 ## Public interactive tree
 
-The public interactive tree is available at:
+After the dataset JSON is uploaded to the `auspice/` directory in this repository, the public interactive tree should be available at:
 
 ```text
 https://nextstrain.org/community/mhmmubassir/h5_2344b_USA@main/full
 ```
+
+## Local use
+
+### 1) Validate input files
+
+```bash
+python3 validate_tree_and_metadata.py
+```
+
+### 2) Build the dataset
+
+```bash
+bash run_build_minimal.sh
+```
+
+### 3) Launch the local viewer
+
+```bash
+bash run_view.sh
+```
+
+Then open:
+
+```text
+http://127.0.0.1:4000/h5/phenotypes/full
+```
+
+## Notes
+
+- This repository is set up for visualization rather than full phylogenetic reconstruction from scratch
+- The build uses a patched NEXUS tree file for compatibility with Augur's BEAST importer
+- Metadata and tree labels were validated to match exactly before export
+
+## Suggested use in meetings
+
+For presentation, open the interactive dataset in a browser and use the **Color By** menu to switch between:
+- lineage-like categories
+- all variants
+- top 10 variants
+- selected phenotype overlays
+
 ## Maintainer
 
 M H M Mubassir
 
+## Citation / acknowledgement
+
+If you use this repository or visualizations derived from it, please cite the associated manuscript and acknowledge the underlying sequence data sources appropriately.
