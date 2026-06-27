@@ -1,0 +1,13 @@
+predicted_HA_phenotype,avian_group,dm_cattle_group,avian_n,dm_cattle_n,avian_median,avian_IQR,avian_mean,dm_cattle_median,dm_cattle_IQR,dm_cattle_mean,delta_median_dm_minus_avian,direction
+HA1 pI,WB+DB,DM,9081,3224,0,0.000 to 0.001,0.064,0.589,0.000 to 1.437,0.597,0.589,higher in DM/cattle-associated
+HA1 net charge at pH 7,WB+DB,DM,9081,3224,0,0.000 to 0.001,0.105,0.999,0.000 to 2.996,1.169,0.999,higher in DM/cattle-associated
+AF3 RBS RMSD,WB+DB,DM,9081,3224,0.033,0.026 to 0.040,0.037,0.046,0.039 to 0.061,0.058,0.013,higher in DM/cattle-associated
+AF3 d130-190,WB+DB,DM,9081,3224,0,-0.002 to 0.007,0.004,-0.01,-0.014 to -0.009,-0.008,-0.01,lower in DM/cattle-associated (shorter pocket apex)
+AF3 d150-220,WB+DB,DM,9081,3224,0,-0.003 to 0.004,0.003,0.008,0.004 to 0.061,0.025,0.008,higher in DM/cattle-associated
+Predicted folding-stability shift,WB+DB,DM,9081,3224,0.383,-0.208 to 4.630,2.365,5.823,-1.351 to 18.375,8.242,5.44,higher in DM/cattle-associated
+HA1 pI,WB+DB,DM,1762,404,0,0.000 to 0.001,0.088,0.589,0.000 to 1.437,0.679,0.589,higher in DM/cattle-associated
+HA1 net charge at pH 7,WB+DB,DM,1762,404,0,0.000 to 0.001,0.131,0.999,0.000 to 2.996,1.315,0.999,higher in DM/cattle-associated
+AF3 RBS RMSD,WB+DB,DM,1762,404,0.038,0.033 to 0.048,0.052,0.047,0.039 to 0.065,0.065,0.009,higher in DM/cattle-associated
+AF3 d130-190,WB+DB,DM,1762,404,0.002,-0.004 to 0.009,0.009,-0.009,-0.014 to -0.003,-0.004,-0.011,lower in DM/cattle-associated (shorter pocket apex)
+AF3 d150-220,WB+DB,DM,1762,404,-0.001,-0.008 to 0.010,0.004,0.018,-0.001 to 0.056,0.026,0.019,higher in DM/cattle-associated
+Predicted folding-stability shift,WB+DB,DM,1762,404,2.307,-1.898 to 7.741,3.224,9.357,3.107 to 18.974,10.43,7.05,higher in DM/cattle-associated
